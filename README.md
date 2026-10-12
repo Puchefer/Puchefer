@@ -1,4 +1,12 @@
-<h1 align="center">Hola, soy Fernando Puche 👋</h1> <h3 align="center">Diseñador e Ilustrador · Character Design · Motion & 3D</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9E82B&center=true&vCenter=true&width=560&lines=Dando+vida+visual+a+personajes;Diseño+gráfico+e+ilustración+digital;Estudiante+de+Diseño+Digital+en+U-tad" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.artstation.com/puchefer"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a> <a href="https://www.therookies.co/u/FernandoPuche"><img src="https://img.shields.io/badge/The%20Rookies-E3C069?style=for-the-badge&logoColor=black" /></a> <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:fernandopuchemolina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<h1 align="center">Hi there, I´m Fernando Puche 👋</h1> 
+<h3 align="center">Diseñador e Ilustrador · Character Design · Motion & 3D</h3> 
+
+
+<br/>
+
+<a href="https://www.artstation.com/puchefer"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" /></a> <a href="https://www.therookies.co/u/FernandoPuche"><img src="https://img.shields.io/badge/The%20Rookies-E3C069?style=for-the-badge&logoColor=black" alt="The Rookies" /></a> <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:fernandopuchemolina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 🎨 Sobre mí
 
