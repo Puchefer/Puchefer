@@ -46,6 +46,9 @@ Estudiante de 4.º de Grado en Diseño Digital en U-tad (promoción 2026). Me ap
 
 📍 Málaga, España
 
+
+<br/>
+
 🛠️ Herramientas
 
 
