@@ -28,7 +28,8 @@ https://github.com/user-attachments/assets/07b29e2b-2100-4924-8bf8-7d0c00813a08
 
 </div>
 
-<pr>
+
+<br/>
 
 🎨 Sobre mí
 
