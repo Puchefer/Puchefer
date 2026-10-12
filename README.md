@@ -2,7 +2,11 @@
 <h1 align="center">Hi there, I´m Fernando Puche 👋</h1> 
 <h3 align="center">Diseñador e Ilustrador · Character Design · Motion & 3D</h3> 
 
-https://github.com/user-attachments/assets/a146660a-b572-48eb-9c4a-97d720c8e701
+
+
+https://github.com/user-attachments/assets/34154648-823b-485e-932e-1f5b54f2f869
+
+
 
 <br/>
 
