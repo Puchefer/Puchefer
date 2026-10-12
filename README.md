@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Get to meet me! 👋</h1> 
-<h3 align="center">Diseñador e Ilustrador · Character Design · Motion & 3D</h3> 
+<h3 align="center"> Digital Designer & Illustrator· Character Design · Motion & 3D</h3> 
 
 
 
@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/07b29e2b-2100-4924-8bf8-7d0c00813a08
 
 <br/>
 
-🎨 Sobre mí
+🎨 About me
 
 
 Fourth-year Digital Design student at U-tad (Class of 2026) and first-year student at Medac Davante. I’m passionate about character design, and my goal is to create and bring characters to life visually, conveying emotions, personality, and storytelling across different digital media.
@@ -40,16 +40,16 @@ Fourth-year Digital Design student at U-tad (Class of 2026) and first-year stude
 
 📚 Grado Superior en Medac
 
-🌱 Aprendiendo: Blender
+🌱 Skills in Progress: Blender
 
-🗣️ Español · Inglés · Alemán
+🗣️ Español · English · Deutsch
 
 📍 Málaga, España
 
 
 <br/>
 
-🛠️ Herramientas
+🛠️ Tools
 
 
 <p> 
@@ -60,12 +60,14 @@ Fourth-year Digital Design student at U-tad (Class of 2026) and first-year stude
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> 
   <img src="https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 </p>
 
-💡 Portfolio completo en ArtStation y The Rookies.
+💡 Full portfolio available on ArtStation and The Rookies.
 
-💬 Cómo trabajo
+💬 How I Work
 
-Creatividad visual · pensamiento conceptual y narrativo · atención a la calidad visual · apertura al feedback y a la revisión iterativa · aprendizaje continuo.
+Visual creativity · Conceptual and narrative thinking · Attention to visual quality · Openness to feedback and iterative refinement · Continuous learning.
