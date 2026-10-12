@@ -4,7 +4,10 @@
 
 
 
-https://github.com/user-attachments/assets/34154648-823b-485e-932e-1f5b54f2f869
+
+
+https://github.com/user-attachments/assets/07b29e2b-2100-4924-8bf8-7d0c00813a08
+
 
 
 
@@ -12,16 +15,20 @@ https://github.com/user-attachments/assets/34154648-823b-485e-932e-1f5b54f2f869
 
 <a href="https://www.artstation.com/puchefer">
 <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
-</a> 
+</a>
 <a href="https://www.therookies.co/u/FernandoPuche">
   <img src="https://img.shields.io/badge/The%20Rookies-E3C069?style=for-the-badge&logoColor=black" alt="The Rookies" />
+</a> 
+<a href="https://www.linkedin.com/in/fernandopuche/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> 
+<a href="mailto:fernandopuchemolina@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<!-- Cuando tengas tu enlace de LinkedIn, quita las marcas de comentario y cambia TU_LINKEDIN: <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-
-<a href="mailto:fernandopuchemolina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 </div>
+
+
 🎨 Sobre mí
 
 
