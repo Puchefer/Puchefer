@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/07b29e2b-2100-4924-8bf8-7d0c00813a08
 🎨 Sobre mí
 
 
-Estudiante de 4.º de Grado en Diseño Digital en U-tad (promoción 2026). Me apasiona el diseño de personajes: mi objetivo es crear y dar vida visual a personajes que transmitan emociones, personalidad y narrativa en distintos medios digitales.
+Estudiante de 4.º de Grado en Diseño Digital en U-tad (promoción 2026) y estudiante de 1.º en Medac Davante. Me apasiona el diseño de personajes: mi objetivo es crear y dar vida visual a personajes que transmitan emociones, personalidad y narrativa en distintos medios digitales.
 
 🎓 U-tad · Grado en Diseño Digital (2022 – 2026)
 
