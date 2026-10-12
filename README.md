@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there, I´m Fernando Puche 👋</h1> 
+<h1 align="center">Get to meet me! 👋</h1> 
 <h3 align="center">Diseñador e Ilustrador · Character Design · Motion & 3D</h3> 
 
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/07b29e2b-2100-4924-8bf8-7d0c00813a08
 🎨 Sobre mí
 
 
-Estudiante de 4.º de Grado en Diseño Digital en U-tad (promoción 2026) y estudiante de 1.º en Medac Davante. Me apasiona el diseño de personajes: mi objetivo es crear y dar vida visual a personajes que transmitan emociones, personalidad y narrativa en distintos medios digitales.
+Fourth-year Digital Design student at U-tad (Class of 2026) and first-year student at Medac Davante. I’m passionate about character design, and my goal is to create and bring characters to life visually, conveying emotions, personality, and storytelling across different digital media.
 
 🎓 U-tad · Grado en Diseño Digital (2022 – 2026)
 
